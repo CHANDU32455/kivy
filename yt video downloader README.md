@@ -13,7 +13,7 @@ Make sure you have the following dependencies installed:
 
 Kivy
 PyTube
-PyDub
+PyDub 
 You can install the required dependencies using the following command:
 
 pip install kivy pytube pydub
